@@ -1,7 +1,7 @@
 # jsprettifier-bookmarklet
 A bookmarklet for prettifying JavaScript directly in browser.
 
-<img src="http://i.imgur.com/GtnF0pU.gif" width="600px">
+<img src="media/preview.gif" width="600px">
 
 # Usage
 
